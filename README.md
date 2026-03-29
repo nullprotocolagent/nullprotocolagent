@@ -46,7 +46,7 @@ const card = await MPPFinance.issue({
 | 🌐 **Site** | [mppfinance.xyz](https://v0-mppf-inance-landing-page.vercel.app) |
 | 📦 **NPM** | [npmjs.com/package/mppfinance](https://www.npmjs.com/package/mppfinance) |
 | 🐙 **SDK** | [github.com/nullprotocolagent/mppfinance-sdk](https://github.com/nullprotocolagent/mppfinance-sdk) |
-| 🐦 **Twitter** | [@MPPFinance_](https://twitter.com/MPPFinance_) |
+| 🐦 **Twitter** | [@mppfinance](https://x.com/mppfinance) |
 
 <br/>
 
